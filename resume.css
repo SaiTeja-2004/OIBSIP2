@@ -1,0 +1,31 @@
+body{
+    margin-left: 20px;
+    background-color: #F3FDFC;
+}
+
+.picture{
+    width: 150px;
+    height: 190px;
+    border-radius: 50%;
+}
+
+table{
+    border-spacing: 20px;
+}
+
+li{
+    font-size: 1.3rem;
+}
+
+hr{
+    height: 2px;
+    background-color: grey;
+}
+
+.aq , .aq th, .aq td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    padding: 20px;
+    font-size: 1.4rem;
+}
